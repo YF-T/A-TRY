@@ -1,8 +1,9 @@
 twice
-new story begins -- like ooh-ahh
+the story begins -- like ooh-ahh
 page 2 -- cheer up
-LANE 1 -- TT
-LANE 2 -- knock knock
+TWICEcoaster:LANE 1 -- TT
+TWICEcoaster:LANE 2 -- knock knock
+signal -- signal
 twicegram -- likey
 merry & happy -- heart shaker
-5th -- what is love
+what is love -- what is love
