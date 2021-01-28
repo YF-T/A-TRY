@@ -1,6 +1,6 @@
 twice
 THE SOTRY BEGINS -- like ooh-ahh
-page 2 -- cheer up
+PAGE 2 -- cheer up
 TWICEcoaster:LANE 1 -- TT
 TWICEcoaster:LANE 2 -- knock knock
 signal -- signal
